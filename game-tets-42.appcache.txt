@@ -1,0 +1,21 @@
+﻿CACHE MANIFEST
+# Ver 0.2.0
+# 004
+
+CACHE:
+
+game-tets-42.htm
+game-tets-42-canva.js
+game-tets-42-config.js
+game-tets-42-lang.js
+game-tets-42-main.js
+game-tets-42-model.js
+game-tets-42-model-blocks.js
+game-tets-42-ui.js
+game-tets-42-robot.js
+
+NETWORK:
+
+*
+
+FALLBACK:
